@@ -5,6 +5,7 @@ Tema: Aviokompanija
 
 - Lejla Hodžić
 - Nisveta Gafić
+- Belmin Selimović
 
 ![slika](https://www.pngitem.com/pimgs/m/331-3316329_transparent-aviao-png-transparent-background-airplane-png-png.png)
 
