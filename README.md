@@ -6,6 +6,8 @@ Tema: Aviokompanija
 - Lejla Hodžić
 - Nisveta Gafić
 
+![slika](https://www.pngitem.com/pimgs/m/331-3316329_transparent-aviao-png-transparent-background-airplane-png-png.png)
+
 ## Opis teme : 
 Aplikacija olakšava planiranje i zakazivanje putovanja za korisnike. Omogućava putnicima da rezervišu kartu online, nudi uvid u raspoloživost karata i njihove cijene. Aplikacija aviokompaniji omogućava da ima uvid u to gdje korisnici putuju i u kojem broju, pa da prema tim podacima kreira svoju ponudu.
 
