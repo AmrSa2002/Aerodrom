@@ -278,9 +278,9 @@
 												"$ref": "AAAAAAFxI0fmzVTAmeA="
 											},
 											"font": "Arial;13;0",
-											"left": 280,
+											"left": 277,
 											"top": 191,
-											"width": 51.0732421875,
+											"width": 57.0908203125,
 											"height": 13,
 											"alpha": -1.7804362784779095,
 											"distance": 48.05205510693585,
@@ -288,7 +288,7 @@
 												"$ref": "AAAAAAFxI0fmzlTBfiQ="
 											},
 											"edgePosition": 1,
-											"text": "Vanredni"
+											"text": "[vanredni]"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -372,9 +372,9 @@
 												"$ref": "AAAAAAFxI0mK6lTXCW8="
 											},
 											"font": "Arial;13;0",
-											"left": 144,
+											"left": 143,
 											"top": 192,
-											"width": 47.6962890625,
+											"width": 49.86083984375,
 											"height": 13,
 											"alpha": 1.821798868414298,
 											"distance": 40.26164427839479,
@@ -382,7 +382,7 @@
 												"$ref": "AAAAAAFxI0mK61TYzSo="
 											},
 											"edgePosition": 1,
-											"text": "Redovni"
+											"text": "[redovni]"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -2707,7 +2707,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFxIuN/clKbbXY="
 							},
-							"name": "Vanredni",
+							"name": "[vanredni]",
 							"source": {
 								"$ref": "AAAAAAFxI0Od81Rcre4="
 							},
@@ -2721,7 +2721,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFxIuN/clKbbXY="
 							},
-							"name": "Redovni",
+							"name": "[redovni]",
 							"source": {
 								"$ref": "AAAAAAFxI0Od81Rcre4="
 							},
