@@ -12,8 +12,9 @@ namespace Aviokompanija.Models
         public int BrojSjedista { get; set; }
         public string Klasa { get; set; }
         public double Cijena { get; set; }
+        public int LetId { get; set; }
 
         //Veze sa drugim klasama
-        public int LetId { get; set; }
+        public virtual Let Let { get; set; }
     }
 }

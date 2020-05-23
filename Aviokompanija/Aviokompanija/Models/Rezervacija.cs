@@ -10,9 +10,11 @@ namespace Aviokompanija.Models
         //Atributi
         public int ID { get; set; }
         public DateTime DatumRezervacije { get; set; }
-
-        //Veze sa drugim klasama
         public int PutnikId { get; set; }
         public int KartaId { get; set; }
+        
+        //Veze sa drugim klasama
+        public virtual Putnik Putnik { get; set; }
+        public virtual Karta Karta { get; set; }
     }
 }

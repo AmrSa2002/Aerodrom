@@ -12,8 +12,9 @@ namespace Aviokompanija.Models
         public string ImeIPrezime { get; set; }
         public int Ocjena { get; set; }
         public string Komentar { get; set; }
+        public int PutnikId { get; set; }
 
         //Veze sa drugim klasama
-        public int PutnikId { get; set; }
+        public virtual Putnik Putnik { get; set; }
     }
 }
